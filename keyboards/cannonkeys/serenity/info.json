@@ -49,7 +49,7 @@
         }
     },
     "ws2812": {
-        "pin": "B15"
+        "pin": "B12"
     },
     "indicators": {
         "caps_lock": "B9",
