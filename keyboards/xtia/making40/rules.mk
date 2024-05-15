@@ -17,4 +17,4 @@ KEY_LOCK_ENABLE = no
 
 LAYOUTS = ortho_4x12
 
-VIALRGB_ENABLE = yes
+

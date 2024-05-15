@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGB_MATRIX_LED_COUNT 42
 #ifdef RGB_MATRIX_ENABLE
 #    define RGB_MATRIX_KEYPRESSES // reacts to keypresses
-#    define RGB_MATRIX_MAXIMUM_BRIGHTNESS 130 // Limit to vendor-recommended value
+#    define RGB_MATRIX_MAXIMUM_BRIGHTNESS 180 // Limit to vendor-recommended value
 #    define RGB_DISABLE_WHEN_USB_SUSPENDED // turn off effects when suspended
 // RGB Matrix Animation modes. Explicitly enabled
 // For full list of effects, see:
